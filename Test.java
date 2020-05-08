@@ -3,6 +3,12 @@ class Test
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Masuna Naveen Kumar");
+		printName("Anwesh");	
 	}
+
+	public static void printName(String name)
+	{
+		System.out.println("Your name is: "name);
+	}
+
 }
