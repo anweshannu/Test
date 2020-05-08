@@ -1,4 +1,4 @@
-// Java Program to print yourname.
+// Java Program to print your name.
 class Test
 {
 	public static void main(String[] args)
